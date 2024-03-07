@@ -1,5 +1,5 @@
 # 0x00. AirBnB clone - The console
-## description of the project
+## Description of the project
 This is a command-line interpreter for managing objects for an AirBnB clone. It allows users to create, update, delete, and display instances of different classes such as User, Place, State, City, Amenity, and Review.
 
 ## Description of the Command Interpreter
@@ -20,7 +20,7 @@ The command interpreter is a Python script that provides a command-line interfac
 | Creating a new user | (hbnb) create User |
 | Displaying all instances of a User | (hbnb) all User |
 | Displaying a specific instance of a User by ID | (hbnb) show User 12345 |
-| Updating a User instance's attribute | update User 12345 first_name John |
+| Updating a User instance's attribute | (hbnb) update User 12345 first_name John |
 | Deleting a User instance | (hbnb) destroy User 12345 |
 | Quitting the command interpreter | (hbnb) quit |
 
